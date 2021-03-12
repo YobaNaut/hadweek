@@ -1,0 +1,58 @@
+body
+{
+    background-image: url(./pics/fly.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed ;
+    color: rgb(225, 220, 202);
+
+    background-color: rgb(23, 47, 83);
+}
+div
+{
+    font-family: Verdana;
+
+    max-width: 640px;
+    min-width: 580px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.boxers
+{
+    background-color:rgba(32, 32, 32, 0.90);
+    padding: 5px;
+}
+.bighead
+{
+    text-align: center;
+    line-height: 80%;
+}
+.maintext
+{
+
+}
+h1
+{
+    padding-left: 16px;
+    font-weight: bold;
+font-size: 16px;
+}
+h1.bighead
+{
+    font-size: 32px;
+    padding-left: unset;
+}
+h2
+{
+    font-size: 24px;
+    font-weight: normal;
+}
+
+p
+{
+    text-align: left;
+    line-height: 150%;
+    font-family: sans-serif;
+    word-wrap: break-word;
+}
